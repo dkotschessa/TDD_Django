@@ -1,0 +1,12 @@
+1621522012927	geckodriver	INFO	Listening on 127.0.0.1:52649
+1621522013933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofileKPWXio"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-20 10:46:57.253 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSButton: 0x13031cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.253 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSButton: 0x130320800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.254 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSButton: 0x130320c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.254 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSButton: 0x130321000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.255 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSButton: 0x130321800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.255 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130322000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-20 10:46:57.256 firefox-bin[32711:217270] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131083c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621522018639	Marionette	INFO	Listening on port 52660
+1621522018682	Marionette	WARN	TLS certificate errors will be ignored for this session

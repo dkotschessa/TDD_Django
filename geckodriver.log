@@ -129,3 +129,97 @@ console.warn: services.settings: main/whats-new-panel sync interrupted by shutdo
 1621847458696	Marionette	WARN	TLS certificate errors will be ignored for this session
 1621847458837	Marionette	INFO	Stopped listening on port 50454
 console.warn: services.settings: main/cfr sync interrupted by shutdown
+1621876130141	geckodriver	INFO	Listening on 127.0.0.1:53811
+1621876131143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofileHoDsxA"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:08:52.920 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSButton: 0x134903800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.920 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSButton: 0x134906c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.921 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSButton: 0x134907400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.921 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSButton: 0x134907800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.922 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSButton: 0x134908000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.922 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134908800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:08:52.923 firefox-bin[74266:939504] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135747800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621876133769	Marionette	INFO	Listening on port 53818
+1621876133806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621876133988	Marionette	INFO	Stopped listening on port 53818
+1621877924886	geckodriver	INFO	Listening on 127.0.0.1:54817
+1621877925892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofile6ADjSq"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:38:47.520 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSButton: 0x12a4f0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.521 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSButton: 0x12a4f5800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.521 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSButton: 0x12a4f5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.522 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSButton: 0x12a556400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.522 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSButton: 0x12a556c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.523 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12a557400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:38:47.523 firefox-bin[74600:957989] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b3a7000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621877928317	Marionette	INFO	Listening on port 54824
+1621877928340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621877928558	Marionette	INFO	Stopped listening on port 54824
+1621878162819	geckodriver	INFO	Listening on 127.0.0.1:54901
+1621878162827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofileVTOTIX"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:42:44.258 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSButton: 0x12ceca000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.258 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSButton: 0x104091400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.259 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSButton: 0x12cecd800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.259 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSButton: 0x12cecdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.260 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSButton: 0x12cece400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.260 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12cecec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:42:44.261 firefox-bin[74706:960872] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12cf43c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621878165128	Marionette	INFO	Listening on port 54906
+1621878165160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621878165757	Marionette	INFO	Stopped listening on port 54906
+1621878232877	geckodriver	INFO	Listening on 127.0.0.1:54965
+1621878232885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofile4mUvN9"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:43:54.316 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSButton: 0x12f3b4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.317 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSButton: 0x12f3b8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.317 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSButton: 0x12f3b8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.318 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSButton: 0x12f3b9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.318 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSButton: 0x12f3b9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.319 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f3ba000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:43:54.319 firefox-bin[74799:962076] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f440000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621878235241	Marionette	INFO	Listening on port 54970
+1621878235322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621878235495	Marionette	INFO	Stopped listening on port 54970
+1621878267452	geckodriver	INFO	Listening on 127.0.0.1:55028
+1621878267511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofilejWZqgy"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:44:28.943 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSButton: 0x139dc7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.943 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSButton: 0x139dcb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.944 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSButton: 0x139dcb400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.944 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSButton: 0x139dcb800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.945 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSButton: 0x139dcc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.945 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139dcc800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:44:28.946 firefox-bin[74834:962819] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139e45800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621878269754	Marionette	INFO	Listening on port 55033
+1621878269856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1621878271476	Marionette	INFO	Stopped listening on port 55033
+1621878363323	geckodriver	INFO	Listening on 127.0.0.1:55097
+1621878363331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofile7JblJf"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:46:04.776 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSButton: 0x1337f4000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.784 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSButton: 0x1344bdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.784 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSButton: 0x1344be400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.785 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSButton: 0x1344be800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.785 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSButton: 0x1344bf000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.786 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1344bf800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:46:04.786 firefox-bin[74878:964029] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134544800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621878365684	Marionette	INFO	Listening on port 55102
+1621878365785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1621878367368	Marionette	INFO	Stopped listening on port 55102
+1621878449235	geckodriver	INFO	Listening on 127.0.0.1:55164
+1621878449244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9j/kq_nq1d51hg01wkky9562gvm0000gp/T/rust_mozprofileFHLvlb"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+2021-05-24 13:47:30.722 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSButton: 0x1388b6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.722 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSButton: 0x1388b9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.723 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSButton: 0x1388ba000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.723 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSButton: 0x1388ba400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.724 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSButton: 0x1388bac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.724 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1388bb400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-24 13:47:30.725 firefox-bin[74924:965211] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138a3e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1621878451517	Marionette	INFO	Listening on port 55169
+1621878451582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1621878453209	Marionette	INFO	Stopped listening on port 55169

@@ -12,3 +12,6 @@ June 1 up to "Redirect After a POST
 "
 
 trying to get this test to format correctly. type instead of c/p
+
+June 3 starting chapter: https://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
+

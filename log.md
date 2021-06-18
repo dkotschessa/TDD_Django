@@ -15,3 +15,13 @@ trying to get this test to format correctly. type instead of c/p
 
 June 3 starting chapter: https://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
 
+
+6/9/2021
+Just before "Now we can rename our method calls"
+
+6/11/2021
+
+Finished chapter 6!
+
+Started https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
+

@@ -25,3 +25,4 @@ Finished chapter 6!
 
 Started https://www.obeythetestinggoat.com/book/chapter_working_incrementally.html
 
+at paragraph "Not only is our new test failing, but the old one is too. That tells us we’ve introduced a regression. Let’s try to get back to a working state as quickly as possible by building a URL for our one and only list." - however selenium doesn't even seem to be able to find the running instance of DJango. It's trying a different port?

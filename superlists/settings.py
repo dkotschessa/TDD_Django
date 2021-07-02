@@ -25,7 +25,7 @@ SECRET_KEY = 'u)v(y7st(wpz#c0+jz=_$1@hkrx)d6v%r1_d3+_p0v03jwtzz&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testserver', 'localhost']
 
 
 # Application definition
